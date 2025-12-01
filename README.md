@@ -80,12 +80,46 @@
 
 ## Demo
 
-| Male Voice Demo                                                                  | Female Voice Demo                                                                  |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| **Text (English)**<br> "Hello sir. How can I assist you today?"                  | **Text (English)**<br>"Hello sir. How can I assist you today?"                     |
-| <audio controls><source src="./demo/male-english.mp3" type="audio/mpeg"></audio> | <audio controls><source src="./demo/female-english.mp3" type="audio/mpeg"></audio> |
-| **Text (Bangla)**<br>"হ্যালো স্যার। আজকে আমি কীভাবে আপনাকে সাহায্য করতে পারি?"     | **Text (Bangla)**<br>"হ্যালো স্যার। আজকে আমি কীভাবে আপনাকে সাহায্য করতে পারি?"        |
-| <audio controls><source src="./demo/male-bangla.mp3" type="audio/mpeg"></audio>  | <audio controls><source src="./demo/female-bangla.mp3" type="audio/mpeg"></audio>  |
+<table>
+<tr>
+<td align="center">
+
+**Male Voice Demo**
+</td>
+<td align="center">
+
+**Female Voice Demo**
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**Text (English)**<br>
+"Hello sir. How can I assist you today?"<br><br>
+[Male English](./demo/male-english.webm)<br><br>
+
+**Text (Bangla)**<br>
+"হ্যালো স্যার। আজকে আমি কীভাবে আপনাকে সাহায্য করতে পারি?"<br><br>
+[Male Bangla](./demo/male-bangla.webm)
+
+</td>
+
+<td align="center">
+
+**Text (English)**<br>
+"Hello sir. How can I assist you today?"<br><br>
+[Female English](./demo/female-english.webm)<br><br>
+
+**Text (Bangla)**<br>
+"হ্যালো স্যার। আজকে আমি কীভাবে আপনাকে সাহায্য করতে পারি?"<br><br>
+[Female Bangla](./demo/female-bangla.webm)
+
+</td>
+</tr>
+</table>
+
+[⬆️ Go to Context](#context)
 
 ## Features
 
