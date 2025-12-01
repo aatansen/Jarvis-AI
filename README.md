@@ -80,12 +80,12 @@
 
 ## Demo
 
-| Male Voice Demo                                                                  | Female Voice Demo                                                                  |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| **Text (English)**<br> "Hello sir. How can I assist you today?"                  | **Text (English)**<br>"Hello sir. How can I assist you today?"                     |
-| <audio controls><source src="./demo/male-english.mp3" type="audio/mpeg"></audio> | <audio controls><source src="./demo/female-english.mp3" type="audio/mpeg"></audio> |
-| **Text (Bangla)**<br>"হ্যালো স্যার। আজকে আমি কীভাবে আপনাকে সাহায্য করতে পারি?"     | **Text (Bangla)**<br>"হ্যালো স্যার। আজকে আমি কীভাবে আপনাকে সাহায্য করতে পারি?"        |
-| <audio controls><source src="./demo/male-bangla.mp3" type="audio/mpeg"></audio>  | <audio controls><source src="./demo/female-bangla.mp3" type="audio/mpeg"></audio>  |
+| Male Voice Demo                                                                | Female Voice Demo                                                              |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| **Text (English)**<br>"Hello sir. How can I assist you today?"                 | **Text (English)**<br>"Hello sir. How can I assist you today?"                 |
+| ▶ [Male English Audio](./demo/male-english.mp3)                                | ▶ [Female English Audio](./demo/female-english.mp3)                            |
+| **Text (Bangla)**<br>"হ্যালো স্যার। আজকে আমি কীভাবে আপনাকে সাহায্য করতে পারি?" | **Text (Bangla)**<br>"হ্যালো স্যার। আজকে আমি কীভাবে আপনাকে সাহায্য করতে পারি?" |
+| ▶ [Male Bangla Audio](./demo/male-bangla.mp3)                                  | ▶ [Female Bangla Audio](./demo/female-bangla.mp3)                              |
 
 ## Features
 
