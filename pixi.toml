@@ -1,0 +1,21 @@
+[workspace]
+authors = ["Md. Alahi Almin Tansen <aatansen@gmail.com>"]
+channels = ["conda-forge"]
+name = "Jarvis-AI"
+platforms = ["win-64"]
+version = "1.0.0"
+
+[tasks]
+
+[dependencies]
+python = "3.13.*"
+google-generativeai = ">=0.8.5,<0.9"
+
+[pypi-dependencies]
+speechrecognition = ">=3.14.4, <4"
+edge-tts = ">=7.2.3, <8"
+playsound = "==1.2.2"
+python-dotenv = ">=1.2.1, <2"
+wikipedia = ">=1.4.0, <2"
+pyaudio = ">=0.2.14, <0.3"
+
