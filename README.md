@@ -198,7 +198,7 @@ music_dir = "path/to/your/music/folder"
 - Run the main script
 
   ```bash
-  python jarvis.py
+  python app.py
   ```
 
 [⬆️ Go to Context](#context)
