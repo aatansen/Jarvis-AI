@@ -154,7 +154,7 @@
 
 ```sh
 git clone https://github.com/aatansen/Jarvis-AI.git
-cd jarvis-assistant
+cd Jarvis-AI
 ```
 
 [⬆️ Go to Context](#context)
