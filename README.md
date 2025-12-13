@@ -266,7 +266,7 @@ music_dir = "path/to/your/music/folder"
 
   ```txt
   Jarvis-AI/
-  ├── jarvis.py              # Main application file
+  ├── app.py                 # Main application file
   ├── .env                   # Environment variables (create this)
   ├── logs/                  # Application logs directory
   │   └── application.log    # Log file (auto-generated)
